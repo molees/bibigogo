@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 logo="http://58.96.43.228:9981/imagecache/24" tvg-id="cd1b96fce65ff5d370005b512dcd955d",10 HD
 http://58.96.43.228:9981/stream/channelid/2090212301?ticket=50EB80189ABCE1CAE9CFA23C8B5065ECC3D8532F&profile=pass
+#EXTINF:-1 logo="http://58.96.43.228:9981/imagecache/159" tvg-id="613a4d0638adf28d077a0073943753f4",SBS ONE
+http://58.96.43.228:9981/stream/channelid/105724513?ticket=A8C6A6C1454C1F1F3C534F1B70609EB8089D84DF&profile=pass
