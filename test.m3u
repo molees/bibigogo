@@ -1,1 +1,11 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="542b9ddb50b69a77b11988dcdc75c5bb",26TV
+http://200.59.213.30:9981/stream/channelid/1537026900?profile=pass
+#EXTINF:-1 tvg-id="bb2e0a0a1420609a805734b52b70c4bb",A&E HD
+http://200.59.213.30:9981/stream/channelid/168439483?profile=pass
+#EXTINF:-1 tvg-id="481e6f704339530b067fbb037b3a0d51",A24
+http://200.59.213.30:9981/stream/channelid/1886330440?profile=pass
+#EXTINF:-1 tvg-id="c34ebeaf5542f2f174d3c5e8d0c4c1cb",AM Sports
+http://200.59.213.30:9981/stream/channelid/801001155?profile=pass
+#EXTINF:-1 tvg-id="5d064495ddabb0139ee846f9f13c1009",AMC
+http://200.59.213.30:9981/stream/channelid/356779613?profile=pass
